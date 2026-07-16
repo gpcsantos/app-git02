@@ -6,7 +6,7 @@ function ListaProdutos() {
         title: "Produto",
         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit, omnis. Corrupti, quaerat magni! Quaerat, repellendus officiis libero, laboriosam dicta harum voluptatum, fugiat voluptas excepturi quidem error pariatur eveniet veniam consectetur!",
         img: "imagens/bloodborn.jpg",
-        buttonText: "Produtos",
+        buttonText: "Detalhes",
         buttonLink: ""
     }
 
