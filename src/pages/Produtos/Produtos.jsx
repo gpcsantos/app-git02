@@ -1,3 +1,5 @@
+import ListaProdutos from "./ListaProdutos/ListaProdutos";
+
 function Produtos() {
   return (
     <>
@@ -14,6 +16,7 @@ function Produtos() {
                 acompanhe os nossos produtos e novidades
               </p>
             </div>
+            <ListaProdutos />
           </div>
         </section>
       </main>
