@@ -3,7 +3,7 @@ import ListaProdutos from "./ListaProdutos/ListaProdutos";
 function Produtos() {
   return (
     <>
-      <main className="w-full px-4 -mt-2 uppercase">
+      <main className="w-7xl mx-auto px-4 -mt-2 uppercase">
         <section className="w-full text-black py-20 px-6">
           <div className="max-w-7xl mx-auto">
             {/* título */}
