@@ -3,6 +3,7 @@ import Header from './Components/Header/Header';
 import moduleName from './pages/';
 import Produtos from "./pages/Produtos/Produtos";
 import Footer from './Components/Footer/Footer';
+import Home from "./pages/Home";
 
 function App() {
   return (
